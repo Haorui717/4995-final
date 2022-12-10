@@ -1,7 +1,10 @@
 # Editing from Fake Images to Real Images
+Group Members: Haorui Song (hs3374), Haoqing Wang (hw2888), Ziggy Chen (xc2605) in letter order.
 
 This is the GitHub repository for COMS4995:006 Deep Learning for Computer Vision final project.
-Group Members: Haorui Song (hs3374), Haoqing Wang (hw2888), Ziggy Chen (xc2605) in letter order.
+![](./teaser/Smiling.png "Smiling")
+![](./teaser/Male.png "Male")
+![](./teaser/Young.png "Young")
 
 ## Environment Setup
 + We run the project on Linux operating system equipped with a Tesla K80 GPU.
